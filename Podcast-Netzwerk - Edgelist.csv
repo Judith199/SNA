@@ -49,8 +49,6 @@ YT,EL
 YT,PKS
 YT,WWW
 MDR,SZ
-,
-,
 JB,RB
 JB,Re
 JB,HR
@@ -58,7 +56,7 @@ JB,E
 JB,SatI
 JB,ZDFk
 JB,ZDF
-JB,ZDFn 
+JB,ZDFn
 JB,ZDFmr
 JB,WDR
 JB,FuF
@@ -75,8 +73,8 @@ SatI,DHSS
 JB,RuB
 ZDFk,RuB
 JB,Neomr
-ZDF ,Neomr
-JB,Neom 
+ZDF,Neomr
+JB,Neom
 ZDFn,Neom
 JB,SuB
 OS,SuB
@@ -94,7 +92,7 @@ ZDFn,Neop
 OS,BO
 NDRf,BO
 OS,NDRt
-NDR ,NDRt
+NDR,NDRt
 OS,DGeA
 NDR,DgeA
 OS,CHG
@@ -103,8 +101,7 @@ OS,SidB
 ProS,SidB
 OS,JgK
 ProS,JgK
-,
-TSB,JKOJ
+TSb,JKOJ
 TSb,ProS
 TSb,FTV
 TSb,Viva
@@ -118,7 +115,7 @@ JL,Neop
 JL,ProS
 JL,LNB
 JL,CHG
-JL,ZDf
+JL,ZDF
 JL,JgK
 JL,FTV
 JL,YT
@@ -141,3 +138,18 @@ KHU,ZDF
 KHU,ZDFn
 KHU,Neomr
 KHU,Neom
+anse,sarü
+anse,woze
+anse,zeve
+anse,zewi
+anse,doma
+anse,swäta
+anse,tagze
+anse,zeit
+sarü,zeve
+sarü,bild
+sarü,taz
+sarü,upfarr
+sarü,zedo
+sarü,woze
+sarü,zeit
